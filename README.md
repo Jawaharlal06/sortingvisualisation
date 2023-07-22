@@ -39,4 +39,4 @@ Available Controls inside Sorting Visualizer:-
 
 - Sample 2 (Merge Sort)
 
-![](samples/example2.gif)
+![](https://github.com/Jawaharlal06/sortingvisualisation/blob/main/example2.gif)
